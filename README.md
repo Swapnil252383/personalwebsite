@@ -1,3 +1,3 @@
 # personalwebsite
 this is my personal website 
-author-swapnil rupnar
+author-swapnil rupnar(king)
